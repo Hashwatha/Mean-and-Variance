@@ -1,6 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
 Developed By : M.Hashwatha
+
 Reg. No. : 212223240051
 
 # Date : 
