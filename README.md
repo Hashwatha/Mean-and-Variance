@@ -57,9 +57,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 Developed by : M.Hashwatha
 Register Number : 212223240051
 
-#Developed By : Krithick Vivekananda
-#Reg. No. : 212223240075
-
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
